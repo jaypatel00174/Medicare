@@ -1,0 +1,16 @@
+SMAP
+docreg_jsp.java
+JSP
+*S JSP
+*F
++ 0 docreg.jsp
+docreg.jsp
+*L
+5,13:45
+18,30:59
+47,2:89
+49:91,3
+50:94
+51:95,3
+52,6:98
+*E

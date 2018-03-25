@@ -1,0 +1,14 @@
+SMAP
+enter_005fproducts_jsp.java
+JSP
+*S JSP
+*F
++ 0 enter_products.jsp
+enter_products.jsp
+*L
+5,13:46
+17:11
+17:58
+20,25:61
+44,6:86
+*E
